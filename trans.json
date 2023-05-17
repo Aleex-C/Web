@@ -1,0 +1,21 @@
+{
+	"trains": [{
+		"A": "Suceava",
+		"B": "Bucuresti"
+	}, {
+		"A": "Suceava",
+		"B": "Cluj"
+	}, {
+		"A": "Cluj",
+		"B": "Bucuresti"
+	}, {
+		"A": "Cluj",
+		"B": "Petrosani"
+	}, {
+		"A": "Brasov",
+		"B": "Bucuresti"
+	}, {
+		"A": "Bucuresti",
+		"B": "Suceava"
+	}]
+}
